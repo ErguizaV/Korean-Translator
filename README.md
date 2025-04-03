@@ -1,0 +1,2 @@
+# Korean-Translator
+gwenchana
